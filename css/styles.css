@@ -1,0 +1,38 @@
+.s-text{
+    background-color:#ff7500 ;
+}
+.site-nav-list{
+    list-style: none;
+}
+
+.div-text{
+    background-color: #252420;
+    color: #fff;
+    width: 1000;
+    height: auto;
+}
+.str-text{
+    background-color: #ff7500;
+    color: #fff;
+}
+.divv-text{
+    background-color:#252420 ;
+    color: #fff;
+}
+.hr-line{
+    background-color: #ff7500;
+    color: #ff7500;
+    width: 1440; height: 6;
+}
+
+.a-stext{
+    background-color:#fff ;
+    color: #252420;
+    width: 224px;
+}
+
+
+.icon-clic{
+    background-color: #ffa85cd3;
+    color: #ff7500;
+}
